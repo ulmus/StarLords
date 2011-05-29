@@ -1,5 +1,6 @@
 ---
-	title: Star Lords
+title: Star Lords
+layout: default
 ---
 
 # Star Lords
@@ -18,40 +19,46 @@ In this universe, space is ruled by the Star Lords, sovereign rulers akin to kin
 
 Each Star Lord rules from a core world and his influence wanes the farther from the core world you travel. Outside the civilized worlds lie the barbarian Wild Stars where tribes and star pirates roam. The reasons for civilized people to venture into the Wild Stars vary, from natural resources such as radium, gold, airwood and slaves to military expeditions to treasure hunting among the tribal courts or old imperial ruins.
 
-The most valuable substance among the Star Lord worlds is radium. Radium fules the ships, the guns and other contraptions created by the Scientists. Scientists are like a crossbreed of researchers, engineers and priests. They are subdivided into different classes, Glowmasters use the pure force of the radium, Engineers create devices harnessing the power of the radium and 
+The most valuable substance among the Star Lord worlds is radium. Radium fules the ships, the guns and other contraptions created by the Scientist and Engineers. While Engineers use machines and constructions to harness the power of radium, Scientist can channel it through their own mind.
 
 Politically and technically, the Star Lords universe shares element from different periods in our history. The post-imperial political landscape is most reminiscent of Europe in the Dark Ages or China during the age of the warlords. Mixed with this is the colonization of the 18th and 19 century with frontier worlds and tribal worlds and the tensions of pre-WWI Europe. Technological level among the Star Lords is even more mixed. Tribal warriors fight with stone clubs and bows while the most advanced Star Troopers use powered armor and handheld radium cannons. Typically, the core worlds are more or less on WWI - WWII era technology with the addition of radium-powered technology such as spaceships, space stations, powered armor and so on. The secrets of nuclear power, apart from that given by radium technology, were lost when the Star Imperium fell.
 
-One significant difference between the universe of Star Lords and our world is the addition of psionic powers, known among people as The Influence. The Influence is inherently linked to the almost magical power of radium, though the connection is poorly understood, even by the Scientists. It seems like it manifests more frequently and powerfully in the barbarian tribes than among their more civilized counterparts on the core worlds where radium technology has taken it's place.
-
-The heroes of Star Lords start as troubleshooters for the merchant baron Claudius Clockmaker, a minor noble running a small merchant operation in the back streets of the city of Cinder, dealing with radium artifacts from the Wild Stars.
+The heroes of Star Lords start as troubleshooters for the merchant baron Claudius Clockmaker, a minor noble running a small merchant operation in the back streets of the city of Glowtown on the world of Cinder, dealing with radium artifacts from the Wild Stars.
 
 ## Character Creation
 
-Character creation in the Star Lords universe is severly limited, to decrease the scope of the rules needed for gaming. To this end, characters will be created by the DM in cooperation with the players and character progression will be quite rigid. Also the character creation rules will initially only cover the first five levels of gameplay (roughly ten adventures). A few classes are provided, but only those actually selected are fleshed out enough for play. Furthermore, each class only has one power per level meaning that there is limited possibility to tweak the classes. Instead, each level the character receives one feat from a set of class-specific, race-specific or generic feats. These feats are all Star Lors specific, none are carried over from the D&D 4E rules set.
+Character creation in the Star Lords universe is severly limited, to decrease the scope of the rules needed for gaming. To this end, characters will be created by the DM in cooperation with the players and character progression will be quite rigid. Also the character creation rules will initially only cover the first five levels of gameplay (roughly ten adventures). A few classes are provided, but only those actually selected are fleshed out enough for play. Furthermore, each class only has one power per level meaning that there is limited possibility to tweak the classes. Instead, each level the player selects one feat from a set of class-specific, race-specific or generic feats. These feats are all Star Lords specific, none are carried over from the D&D 4E rules set.
 
 ### Classes
 
 #### Freepilot
-The Glowships are the radium fueled starships that travel the interplanetary and interstellar space. Some of these ships are part of merchant houses, navies and the like, but many sail under independent flag, commandeered by freepilots, a rowdy bunch of freedom-loving individualists. As a freepilot, you don't start the game with any ship of your own, instead you pilot Claudius' old ship The Red Rooster. In combat, you rely on wits and subterfuge.
+The Glowships are the radium fueled starships that travel the interplanetary and interstellar space. Some of these ships are part of merchant houses, navies and the like, but many sail under independent flag, commandeered by freepilots, a rowdy bunch of freedom-loving individualists. As a freepilot, you don't start the game with any ship of your own, instead you pilot Claudius' old ship The Red Rooster. In combat, you rely on wits and subterfuge. You are a striker.
 
 #### Star Soldier
-You left the army or your mercenary company and are now in Claudius' service. In combat, you rely on your trusty machine gun to lay down suppressive fire on the enemy. In effect, the star soldier has the following special ability
+You left the army or your mercenary company and are now in Claudius' service. In combat, you rely on your trusty machine gun to lay down suppressive fire on the enemy. You are a controller, or ranged defender. In effect, the star soldier has the following special ability:
 
 ##### Suppressing Fire
-
 **Type:** At-will  
 **Action:** Minor Action  
-**Keywords**: Weapon, Autofire  
-**Effect:** Create an Area 1 Zone of Suppressing Fire within the weapon's range. If an enemy in the zone that the character can see, moves or makes an attack that does not include the character, the character may choose to either make an ordinary opportunity attack or make a Stay Down attack (which is an Immediate Interrupt, only one may be made by the character per round)
+**Keywords:** Weapon, Autofire  
+**Effect:** Create an Area 1 Zone of Suppressing Fire within the weapon's range. If an enemy in the zone that the character can see, moves or makes an attack that does not include the character, the character may choose to either make an ordinary opportunity attack or make a Stay Down attack (which is an Immediate Interrupt, only one may be made by the character per round). The Zone remains until the end your next turn. You may only have on zone active at a time, if you create a new zone any old zones disappears.
+**Sustain:** You must have line of sight to at least one square of the zone. You spend ammunition for one autofire burst.
 
 ##### Stay Down
-
 **Type:** Immediate Interrupt  
 **Trigger:** An enemy that you can see in your Zone of Suppressing Fire moves voluntarily or makes an attack that does not include you and you chose not to make an attack of opportunity  
 **Keywords:** Weapon, Autofire  
 **Attack:** Strength vs Will  
-**Hit:** The target's action is interrupted, if it was a move, it stays in the square where it was hit, if it was an attack, the attack is cancelled. The action is spent and the target falls prone.
+**Hit:** The target's action is interrupted, if it was a move, the move ends, if it was an attack, the attack is cancelled. The target's action is spent and the target falls prone.
 
 #### Veteran
-You have seen battle numerous times, at the Battle of the Starfish Nebula or on the deadly sand fields of Doruk. You've had men die under your command and you've saved and taken lives numerous times. Now you are a bit tired of it all and you've accepted an offer from Sir Clockmaker for a more quiet and sober life. In combat you fight through others
+You have seen battle numerous times, at the Battle of the Starfish Nebula or on the deadly sand fields of Doruk. You've had men die under your command and you've saved and taken lives numerous times. Now you are a bit tired of it all and you've accepted an offer from Sir Clockmaker for a more quiet and sober life. In combat you fight through others and support them through morale boosts. You are a leader.
+
+#### Scientist
+The scientists control the power of radium using their minds and formulas. You can spread green flames over your enemies and you can also slightly boost your allies. Using your scientific knowledge, you serve both as a physician and as a field academic at the Red Rooster. You are mostly an area striker, with some leader abilities.
+
+#### Engineer
+Through your machinations, you have harnessed the power of the green metal. You fight using your machine companion, but can also use other devices to hinder your enemies or help your allies. You are the ship engineer of the Red Rooster. The Engineer is a special class, somewhat of a crossbreed between a leader and controller.
+
+#### Explorer
+You've traveled the different worlds, exploring thw Wild Stars and the ruinds of the Star Imperium. You are skilled in survival, be it in space or in the jungle, but you don't care much for civilization. You hunt using heavy rifles and you are a ranged striker.

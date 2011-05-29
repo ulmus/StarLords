@@ -1,0 +1,72 @@
+body {
+	font: 12pt "Droid Serif", Georgia;
+	background-color: #212121;
+	color: #d5d5d5;
+}
+
+div.content {
+	width:  800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Amaranth, Tahoma;
+}
+
+h1, h2, h3, h4 {
+	color: #d5d5d5;	
+}
+
+h5, h6 {
+	color: #929292;
+}
+
+h1 {
+	font-family: "Carter One", sans-serif;
+	text-align: center;
+	font-size: 4em;
+	color: #ffffff;
+	text-shadow: 4px 4px 4px #595;
+}
+
+h2 {
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	font-size: 2.5em;	
+}
+
+h3 {
+	font-size: 2em;
+}
+
+h4 {
+	margin-bottom: 0.80em;
+	font-size: 1.6em;
+	margin-bottom: 0.4em;
+}
+
+h5 {
+	font-size: 1.3em;
+	margin-bottom: 0.2em;
+}
+
+h6 {
+	font-size: 1.1em;
+	margin-bottom: 0.1em;
+}
+
+li, p {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+	line-height: 1.4em;
+}
+
+p {
+	margin-top: 0.1em;
+}
+
+strong {
+	font-weight: bold;
+	color: #a9a9a9;
+}
