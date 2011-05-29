@@ -1,15 +1,16 @@
-﻿---
-title: Star Lords
 ---
+	title: Star Lords
+---
+
 # Star Lords
 
 ## Premises
 
 Star Lords is an action-packed Science Fantasy RPG based on the D&D 4E rules set. To ease the implementation of a 4E rule set for SF, certain caveats will apply.
 
-- Unless otherwise noted, the rules as written in 4E PHB and DMG apply
-- The largest exception to above is the character creation and progress, which is based on the 4E principles, but implemented differently in Star Lords
-- No monsters or equipment is carried over from D&D, specifically, no magic items are included.
+* Unless otherwise noted, the rules as written in 4E PHB and DMG apply
+* The largest exception to above is the character creation and progress, which is based on the 4E principles, but implemented differently in Star Lords
+* No monsters or equipment is carried over from D&D, specifically, no magic items are included.
 
 The Star Lords universe is science fantasy in the image of Star Wars or Warhammer 40K. As in a fantasy world, different cultures are inspired by earthly equivalents, but no explicit connections are made to our world, it is set "a long time ago in a galaxy far, far away".
 
@@ -51,7 +52,6 @@ You left the army or your mercenary company and are now in Claudius' service. In
 **Keywords:** Weapon, Autofire  
 **Attack:** Strength vs Will  
 **Hit:** The target's action is interrupted, if it was a move, it stays in the square where it was hit, if it was an attack, the attack is cancelled. The action is spent and the target falls prone.
-
 
 #### Veteran
 You have seen battle numerous times, at the Battle of the Starfish Nebula or on the deadly sand fields of Doruk. You've had men die under your command and you've saved and taken lives numerous times. Now you are a bit tired of it all and you've accepted an offer from Sir Clockmaker for a more quiet and sober life. In combat you fight through others
