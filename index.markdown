@@ -1,6 +1,5 @@
 ﻿---
-layout: default
-permalink: index.html
+title: Star Lords
 ---
 # Star Lords
 
