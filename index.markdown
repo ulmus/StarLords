@@ -1,4 +1,5 @@
 ﻿---
+layout: default
 permalink: index.html
 ---
 # Star Lords
