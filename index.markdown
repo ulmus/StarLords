@@ -7,7 +7,7 @@ layout: default
 
 ## Premises
 
-Star Lords is an action-packed Science Fantasy RPG based on the D&D 4E rules set. To ease the implementation of a 4E rule set for SF, certain caveats will apply.
+Star Lords is an action-packed Science Fantasy RPG based on the D&D 4E rules set. To ease the implementation of a 4E rules for SF, certain caveats will apply.
 
 * Unless otherwise noted, the rules as written in 4E PHB and DMG apply
 * The largest exception to above is the character creation and progress, which is based on the 4E principles, but implemented differently in Star Lords
@@ -15,7 +15,7 @@ Star Lords is an action-packed Science Fantasy RPG based on the D&D 4E rules set
 
 The Star Lords universe is science fantasy in the image of Star Wars or Warhammer 40K. As in a fantasy world, different cultures are inspired by earthly equivalents, but no explicit connections are made to our world, it is set "a long time ago in a galaxy far, far away".
 
-In this universe, space is ruled by the Star Lords, sovereign rulers akin to kings, imposing their will over one or more star systems. The Star Lords are remnants from the Star Empire that fell many hundred years ago due to internal strife.
+In this universe, space is ruled by the Star Lords, sovereign rulers akin to kings, imposing their will over one or more star systems. The Star Lords are remnants from the Star Imperium that fell many hundred years ago due to internal strife.
 
 Each Star Lord rules from a core world and his influence wanes the farther from the core world you travel. Outside the civilized worlds lie the barbarian Wild Stars where tribes and star pirates roam. The reasons for civilized people to venture into the Wild Stars vary, from natural resources such as radium, gold, airwood and slaves to military expeditions to treasure hunting among the tribal courts or old imperial ruins.
 
@@ -41,7 +41,7 @@ You left the army or your mercenary company and are now in Claudius' service. In
 **Type:** At-will  
 **Action:** Minor Action  
 **Keywords:** Weapon, Autofire  
-**Effect:** Create an Area 1 Zone of Suppressing Fire within the weapon's range. If an enemy in the zone that the character can see, moves or makes an attack that does not include the character, the character may choose to either make an ordinary opportunity attack or make a Stay Down attack (which is an Immediate Interrupt, only one may be made by the character per round). The Zone remains until the end your next turn. You may only have on zone active at a time, if you create a new zone any old zones disappears.
+**Effect:** Create an Area 1 Zone of Suppressing Fire within the weapon's range. If an enemy in the zone that the character can see, moves or makes an attack that does not include the character, the character may choose to either make an ordinary opportunity attack or make a Stay Down attack (which is an Immediate Interrupt, only one may be made by the character per round). The Zone remains until the end your next turn. You may only have on zone active at a time, if you create a new zone any old zones disappears.  
 **Sustain:** You must have line of sight to at least one square of the zone. You spend ammunition for one autofire burst.
 
 ##### Stay Down

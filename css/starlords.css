@@ -64,9 +64,15 @@ li, p {
 
 p {
 	margin-top: 0.1em;
+	margin-bottom: 1.2em;
 }
 
 strong {
 	font-weight: bold;
 	color: #a9a9a9;
+}
+
+a {
+	color: #990806;
+	text-decoration: none;
 }
