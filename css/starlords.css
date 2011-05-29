@@ -73,6 +73,11 @@ strong {
 }
 
 a {
-	color: #990806;
+	color: #426520;
 	text-decoration: none;
+}
+
+hr {
+	margin-top: 2em;
+	margin-bottom: 2em;
 }

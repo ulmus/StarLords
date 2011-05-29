@@ -61,4 +61,4 @@ The scientists control the power of radium using their minds and formulas. You c
 Through your machinations, you have harnessed the power of the green metal. You fight using your machine companion, but can also use other devices to hinder your enemies or help your allies. You are the ship engineer of the Red Rooster. The Engineer is a special class, somewhat of a crossbreed between a leader and controller.
 
 #### Explorer
-You've traveled the different worlds, exploring thw Wild Stars and the ruinds of the Star Imperium. You are skilled in survival, be it in space or in the jungle, but you don't care much for civilization. You hunt using heavy rifles and you are a ranged striker.
+You've traveled the different worlds, exploring the Wild Stars and the ruins of the Star Imperium. You are skilled in survival, be it in space or in the jungle, but you don't care much for civilization. You hunt using heavy rifles and you are a ranged striker.
