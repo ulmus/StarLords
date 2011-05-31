@@ -35,21 +35,7 @@ Character creation in the Star Lords universe is severly limited, to decrease th
 The Glowships are the radium fueled starships that travel the interplanetary and interstellar space. Some of these ships are part of merchant houses, navies and the like, but many sail under independent flag, commandeered by freepilots, a rowdy bunch of freedom-loving individualists. As a freepilot, you don't start the game with any ship of your own, instead you pilot Claudius' old ship The Red Rooster. In combat, you rely on wits and subterfuge. You are a striker.
 
 #### Star Soldier
-You left the army or your mercenary company and are now in Claudius' service. In combat, you rely on your trusty machine gun to lay down suppressive fire on the enemy. You are a controller, or ranged defender. In effect, the star soldier has the following special ability:
-
-##### Suppressing Fire
-**Type:** At-will  
-**Action:** Minor Action  
-**Keywords:** Weapon, Autofire  
-**Effect:** Create an Area 1 Zone of Suppressing Fire within the weapon's range. If an enemy in the zone that the character can see, moves or makes an attack that does not include the character, the character may choose to either make an ordinary opportunity attack or make a Stay Down attack (which is an Immediate Interrupt, only one may be made by the character per round). The Zone remains until the end your next turn. You may only have on zone active at a time, if you create a new zone any old zones disappears.  
-**Sustain:** You must have line of sight to at least one square of the zone. You spend ammunition for one autofire burst.
-
-##### Stay Down
-**Type:** Immediate Interrupt  
-**Trigger:** An enemy that you can see in your Zone of Suppressing Fire moves voluntarily or makes an attack that does not include you and you chose not to make an attack of opportunity  
-**Keywords:** Weapon, Autofire  
-**Attack:** Strength vs Will  
-**Hit:** The target's action is interrupted, if it was a move, the move ends, if it was an attack, the attack is cancelled. The target's action is spent and the target falls prone.
+You left the army or your mercenary company and are now in Claudius' service. In combat, you rely on your trusty machine gun to lay down suppressive fire on the enemy. You are a controller, or ranged defender. The Star Soldier is further described [here](classes/soldier.html).
 
 #### Veteran
 You have seen battle numerous times, at the Battle of the Starfish Nebula or on the deadly sand fields of Doruk. You've had men die under your command and you've saved and taken lives numerous times. Now you are a bit tired of it all and you've accepted an offer from Sir Clockmaker for a more quiet and sober life. In combat you fight through others and support them through morale boosts. You are a leader.
